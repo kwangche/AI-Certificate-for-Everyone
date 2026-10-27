@@ -1,0 +1,10 @@
+jupyter
+numpy
+pandas>=2.0
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+# 선택 (10, 15번의 XGBoost/LightGBM 셀)
+xgboost
+lightgbm

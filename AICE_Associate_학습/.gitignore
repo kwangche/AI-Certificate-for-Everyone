@@ -1,0 +1,7 @@
+# 노트북 실행 중 생성되는 파일
+.ipynb_checkpoints/
+*.keras
+*.pkl
+churn_preprocessed.csv
+air_preprocessed.csv
+val_loss.png
